@@ -8,8 +8,3 @@
 * 🥳 目前和朋友一起在弄[前端工程化方面的东西](https://github.com/developer-once/)
 * 🤝 交个朋友 ![Wechat](https://img.shields.io/badge/lucienstar-wechat.svg?logo=wechat&logoColor=white) 
 ***
-### Leetcode
-![](https://stats.justsong.cn/api/leetcode?username=lucienstar&cn=true&theme=dark)
-***
-### GitHub
-![lucienstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienstar&theme=dark&show_icons=true)
